@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited by XMLSpy -->
+<Menu>
+
+    <FOOD>
+        <NAME>Pizza</NAME>
+        <PRICE>12.99</PRICE>
+        
+    </FOOD>
+    <FOOD>
+        <NAME>Burger</NAME>
+        <PRICE>9.99</PRICE>
+    </FOOD>
+    <FOOD>
+       <NAME>Ice Cream</NAME>
+        <PRICE>2.46</PRICE>
+    </FOOD>
+    <FOOD id = "1">
+        <NAME>Salads</NAME>
+        <PRICE>8.99</PRICE>
+    </FOOD>
+
+</Menu>
